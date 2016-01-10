@@ -1,0 +1,16 @@
+{
+  "name": "Novidades no PHP",
+  "description": "Descrição de algumas novidades do PHP 7",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ronald B Falcão",
+      "email": "ronald@ronaldfalcao.com.br"
+    }
+  ],
+
+  "require": {
+    "twbs/bootstrap": "3.3.x-dev"
+  }
+}
