@@ -1,9 +1,24 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Ronald
- * Date: 10/01/2016
- * Time: 12:03
- */
+<head>
+    <title>Novidades PHP 7 - Home</title>
+</head>
 
-    echo '<h1>HOME PAGE - Novidades PHP<h1/>';
+<body>
+    <div class="container">
+        <div class="cabecalho">
+            <?php include'views/partials/header.php'; ?>
+        </div>
+
+        <div class="corpo">
+            <h1>Novidades PHP 7</h1>
+
+            <?php
+
+            ?>
+
+        </div>
+
+        <div class="footer">
+            <?php include'views/partials/footer.php'; ?>
+        </div>
+    </div>
+</body>
