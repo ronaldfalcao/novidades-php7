@@ -11,6 +11,8 @@ Vou mostrar aqui algumas mudanças que aconteceram na nova versão do PHP, vers�
 
 Mais informações na página do PHP (http://www.php.net/)
 
+Para saber mais sobre as novidades (http://php.net/manual/en/migration70.new-features.php)
+
 **Nota:** Para acessar as informações diretamente na URL lembre-se de usar /?page=<nome da pasta>.
 
 
