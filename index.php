@@ -7,10 +7,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     </head>
 
-    <style type="text/css">
-        <?php include 'vendor/twbs/bootstrap/dist/bootstrap.min.css';?>
-    </style>
-
     <?php
     /**
      * Created by PhpStorm.
